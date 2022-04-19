@@ -1,0 +1,1 @@
+web:yarn run tailwind && yarn run purge-tailwind && cross-env GENERATE_SOURCEMAP=false react-scripts build
